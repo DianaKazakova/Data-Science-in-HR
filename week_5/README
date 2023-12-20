@@ -1,0 +1,9 @@
+In this week i learned what is the bandit problem. Also, i studied one-armed bandit and multi-armed bandit. 
+The main idea of bandit problem is what the strategy for pulling arms that maximizes cumulative payout.
+Also, finding "right" balance between exploring and exploiting is essence of bandit problems. There are several 
+approaches to the bandit problem, for example bernoulli vandit and bernouli beta bandit. 
+For the first one, pulling the arm can have success (1) or failure (0). A decision-maker faces a dilemma: it must decide which 
+slot machine (arm) to pull in order to maximize its cumulative reward over time. Each slot machine has an unknown probability 
+of success, and the agent's goal is to learn the best arm to pull based on the outcomes of previous pulls. At the same time, 
+in Beta Bernouilli bandit each arm is modeled using a Beta distribution. The agent has a proir belief about payout distribution
+and these beliefs are updating when arms are pulled.
