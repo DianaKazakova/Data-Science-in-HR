@@ -1,7 +1,8 @@
 #In this section how to apply control is learned (how to identify the 
 #coefficient of independent part of the variable). Also I learned how to build
 #the LTE model in R and how to interpret it. Also I learned how to estimate LTE 
-#model with the help of sample splitting techniques. 
+#model with the help of sample splitting techniques. Also, I learned the Orthogonal algorithm
+# ans studied how to apply it in R
 
 
 #Controls 
